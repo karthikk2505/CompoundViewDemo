@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CompoundViewDemo</string>
+    <string name="friend_count_label">How many friends do you have?</string>
+    <string name="count_friends_button">Count My Friends</string>
+    <string name="you_have_friends">I have %1$s friends.</string>
+    <string name="friend_name">Friend name</string>
+</resources>
